@@ -1,0 +1,31 @@
+It is perhaps a little silly to get excited about a game based on screenshots. For all manner of reasons. But I can’t help myself whenever I pics of Children Of Morta. It just looked so astonishingly beautiful, especially in the last year. So I nagged at the PR team behind it, and they let me get my hands on an in-development build that doing the rounds at this summer’s shows. Oh my, it’s already looking splendid.
+
+And plays splendidly, too. This is the story of the Bergson family. The Bergson’s have protected Mount Morta for generations, but now, I’m sorry to tell you, a corruption is spreading. It so often does, doesn’t it? Purple goo mutating into dreadful beasties, rampaging about the randomly arranged dungeons of the mountain, amongst the already not-that-nice denizens of monsters and goblins and the like.
+
+So you’ll not be surprised to learn your job is to wade into that mess and whack it all to death. But how you do this is Morta’s key element, alongside some really quite lovely storytelling.
+
+In this early build, I started off playing as John (good choice), the patriarch of the Bergsons, and a fairly standard sword-swinging close-combat type. But right at the start I could also choose to play as his youngest daughter, Lucy (close, but that’s my cat’s name), who nimbly performs ranged attacks. Each offers a really distinct approach to playing, right down to the controls. The game is best suited to a controller, and John is fairly standard, X to attack, A to dodge, and the ever-growing range of extra abilities assigned elsewhere. Lucy, meanwhile, far better suits a more twin-stick approach, and the game has that set up from the off too. With five other characters to be available in the finished game, I’m super-intrigued to find out what other approaches will be available.
+
+And then it follows the fairly standard formula of action-adventure roguelites, with battling through these multi-stage dungeons against a broad range of enemy types, gathering temporary skills and power-ups, and risking how far you’ll venture before chickening out and heading home, or getting deaded. Loot picked up on any run, whether ending in success or failure, can then be spent on upgrading skills for the whole family.
+
+But what makes this feel really special just now, alongside an already strong action game, is that it’s replete with tiny details of beauty. After one death the game returned to the starting house, but instead of zooming in through the roof to where I can select new abilities or launch a new game, the camera drifted to the left, where my character’s pregnant wife was putting down a bowl of food in the garden. Out from the trees emerged a young deer, followed by a magnificent stag, then from some bushes crawled a couple of hedgehogs, all gorgeously animated, all calm and serene.
+
+There are a good number of these moments, and they’re then used to tell a story that starts to reveal itself by actions performed on runs. Early on I rescued a puppy, surrounded by enemies near the corpse of its mother, the game’s mellifluous narrator pulling on my heartstrings as he detailed the creature’s lost love. He gets brought back to the family house, and the grandmother says she can heal it if certain herbs are collected. So on the runs now, these are there to find too. And so on.
+
+The game still has no release date, so goodness knows how far away we are from release. I dearly hope that in the meantime, difficulty is balanced. Right now I can’t get through the third level of the first dungeon, because the mobs get so ridiculous I can’t even run away, let alone stand and fight. I’ve no idea if that’s by design because this is a demo build, so the queue keeps moving on the show floor, but I really strongly hope a game that puts storytelling so central will remember to be accessible to the non-hardcore.
+
+But more than anything, I’ve come away from this having confirmed that it’s every bit as gorgeous as those screenshots looked. At one point I genuinely sat back in my chair, stretched, and said, “This is so bloody beautiful.” And I’m sure there are some muttering here, so forgive me this:
+
+I know there’s a large contingent of people who profess themselves “fed up with” pixel graphics. I’d like to address this notion with some alternative phrases people could say:
+
+“I’m fed up of watercolour paintings. Why can’t people just take high res photographs?”
+
+“I’m fed up of orchestral music. Why can’t people just listen to theramins?
+
+“I’m fed up of cuddles. Why can’t people just click ‘like’?”
+
+Pixel graphics are neither an attempt to look “retro”, nor indeed are they a way to cut budgets. They’re an aesthetic choice, just as much as it is to choose bland shiny walls in Unity. And when the results are as stunning as Children Of Morta’s, the choice makes so much sense.
+
+I’m not going to pretend that it doesn’t have a nostalgic quality for me too, but crucially it’s not a nostalgia for a period of gaming in the ’80s or early ’90s, but rather particular moments of gaming in that era when astounding beauty was portrayed in the pixel animations. Most pixel art games then and now look bland. Some pixel art games then and now look incredible. Anyway, now everyone’s learned not to be wrong about this, let’s move on.
+
+As ever, no conclusions can be drawn at this point, because the game is not at all finished. Other than how completely lovely it looks. We’ll bring you more as soon as we can.
