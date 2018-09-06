@@ -1,3 +1,9 @@
+## data dirs
+Next-Generation-Natural-Language-Processing-with-Python/Section 2/data/
+Next-Generation-Natural-Language-Processing-with-Python/Section 4/data/
+Next-Generation-Natural-Language-Processing-with-Python/Section 5/data/
+Next-Generation-Natural-Language-Processing-with-Python/Section 6/data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
