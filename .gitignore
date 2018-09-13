@@ -108,3 +108,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+/Hands-on-NLP-with-NLTK-and-scikit-learn/Section 2/enron
+/Hands-on-NLP-with-NLTK-and-scikit-learn/Section 3/movie_reviews
+/Hands-on-NLP-with-NLTK-and-scikit-learn/Section 4/movie_reviews
+/Hands-on-NLP-with-NLTK-and-scikit-learn/Section 5/20_newsgroups
+/Hands-on-NLP-with-NLTK-and-scikit-learn/Section 6/20_newsgroups
+/Next-Generation-Natural-Language-Processing-with-Python/Section 4/data
