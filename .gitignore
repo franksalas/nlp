@@ -128,3 +128,5 @@ venv.bak/
 /nlp_and_comp_n_ling/docs
 /nlp_for_hackers/part2/data
 /nlp_for_hackers/part3/data
+/sklearn/data
+/sklearn/.ipynb_checkpoints
